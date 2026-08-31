@@ -64,7 +64,7 @@ const testimonials = [
 
 function Index() {
   const [t, setT] = useState(0);
-  const current = testimonials[t];
+  const current = testimonials[t]!;
 
   return (
     <div id="top" className="bg-background text-foreground">

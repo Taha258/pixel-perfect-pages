@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#111319" />
+  <rect width="60" height="60" x="2" y="2" rx="12" fill="#181a24" stroke="#e6b44c" stroke-width="1.5" stroke-opacity="0.4" />
+  <g transform="translate(17, 10) scale(1.05)">
+    <!-- Tattoon Studio Golden Brand Crest -->
+    <path fill="#FFDF8D" stroke="#e6b44c" stroke-width="0.5" d="M28.7,15.4L27,29.8l-3.5-10.9l-5.5-0.1l-0.7,20.7l9.3,4.5L2,43.8l9-4.4l-0.6-20.5l-5.1,0l-3.7,11L0.4,15 L28.7,15.4z"/>
+  </g>
+</svg>
